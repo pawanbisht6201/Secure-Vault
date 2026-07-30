@@ -112,19 +112,6 @@ JWT_SECRET=YOUR_SECRET_KEY
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-- Login Page
-- Register Page
-- Dashboard
-- Add Password
-- Edit Password
-- Search Password
-
----
-
 ## 📈 Future Improvements
 
 - Password Generator
